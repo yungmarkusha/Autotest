@@ -1,2 +1,2 @@
-# Autotest
+# Autotests
 Lessons of practice
